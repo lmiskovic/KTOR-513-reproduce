@@ -1,0 +1,1 @@
+rootProject.name = "KTOR-513-reproduce"
